@@ -5,7 +5,7 @@ import '../styles/App.css';
 
 const ProductView = () => (
   <div>
-    <h2 ClassName="title_prod">Alla Produkter!</h2>
+    <h2 ClassName="title_prod">Alla Produkter!</h2> <br/>
     <p>
       { <GetAllProducts/> }
     </p>
